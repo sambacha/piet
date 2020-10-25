@@ -24,7 +24,7 @@
  */
 
 import * as PromiseFileReader from 'promise-file-reader';
-import * as parser from 'solidity-parser-antlr';
+import * as parser from 'solidity-parser-diligence';
 
 enum NodeType {
     ContractDefinition = 'ContractDefinition'
